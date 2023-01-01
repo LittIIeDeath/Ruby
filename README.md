@@ -1,2 +1,2 @@
 # Ruby
-Repositório de estudos ded e
+Repositório de estudos
