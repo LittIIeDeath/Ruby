@@ -1,5 +1,6 @@
 # Ruby
-Repositório de estudos |
+
+Repositório de estudos
 
 - estudar mais sobre block, proc e lambda
 - pesquisar como funciona bundle lib
@@ -21,3 +22,17 @@ Repositório de estudos |
 17/02 18:00 - https://us02web.zoom.us/w/87207216687?tk=09JsZdKNUwFT-Pn1zb_FmNMXB500-PRN4SP6xtpvYPg.DQMAAAAUTfSGLxZSc1NJVnd3NlMyV1ZjWEtJdkpGS3VnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_MW4F-xEPTT2aS1Sci1fgqA
 
 24/02 18:00 - https://us02web.zoom.us/w/85763155407?tk=50G4sEKyeokrYHxFXDFPCCN7SXeigMe-nfu6daghHBA.DQMAAAAT9-HlzxZrUWdFcmplZlRLS3QwMXBfanlyZDNnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&uuid=WN_MkILNR51Rb23pMp3XrqvHQ
+
+Repositório de estudos
+
+# Cursos
+- [ ] [theodinproject - Curso Ruby](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby)
+
+# Livros
+- [ ] [Aprenda Git o suficiente para ser perigoso](https://www.learnenough.com/git-tutorial/getting_started#about_the_author)
+- [ ] [Aprenda linha de comando suficiente para ser perigoso](https://www.learnenough.com/command-line-tutorial)
+- [ ] [Guia de Estilo Ruby](https://rubystyle.guide/)
+- [ ] [Tutorial de Ruby on Rails](https://www.railstutorial.org/book)
+- [ ] [Aprenda Ruby da Maneira Difícil, 3ª Edição](https://learnrubythehardway.org/book/)
+- [ ] [] ()
+- [ ] [] ()
