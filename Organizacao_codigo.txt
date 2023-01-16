@@ -1,0 +1,7 @@
+- cada module criar uma pasta separada pra ele
+- padrao de nomeclatura e esnake_case excesao de class e module
+- padrao das classes e CamelCase.
+- todo codigo tem que ter um init.Rb
+    require_relative 'lib,fabrica,carro' - da acesso a essas classes sem ter que passar o .rb
+- contantes sao tudo maiusculas
+- Ao trabalhar com do/end blocos, prefira { }quando toda a expressão de código couber em uma linha.
