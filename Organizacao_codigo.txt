@@ -5,3 +5,12 @@
     require_relative 'lib,fabrica,carro' - da acesso a essas classes sem ter que passar o .rb
 - contantes sao tudo maiusculas
 - Ao trabalhar com do/end blocos, prefira { }quando toda a expressão de código couber em uma linha.
+
+- estudar mais sobre block, proc e lambda
+- pesquisar como funciona bundle lib
+
+- :: - metodo de classe
+- # - metodo de instancia
+
+- even? par
+- odd? impar
